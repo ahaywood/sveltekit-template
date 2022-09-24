@@ -3,5 +3,11 @@
     "activityBar.background": "#fb8500",
     "titleBar.activeBackground": "#ffb703",
     "titleBar.activeForeground": "#000000"
-  }
+  },
+  "cSpell.words": [
+    "mdsvex",
+    "oldschool",
+    "rehype",
+    "sveltejs"
+  ]
 }

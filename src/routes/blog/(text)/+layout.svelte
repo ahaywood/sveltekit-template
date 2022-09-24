@@ -1,8 +1,5 @@
-<script lang="ts">
-  export let metadata;
-  export let title: string;
-
-  console.log({ metadata });
+<script>
+  export let title;
 </script>
 
 <h1>{title}</h1>

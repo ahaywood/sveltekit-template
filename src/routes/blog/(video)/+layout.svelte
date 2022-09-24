@@ -1,10 +1,9 @@
-<script lang="ts">
-  export let frontmatter;
-  export let author: string;
-
-  $: console.log({ frontmatter });
+<script>
+  export let author;
 </script>
 
-Author: {author}
+{#if author}
+  Author: {author}
+{/if}
 
 <slot><!-- optional fallback --></slot>

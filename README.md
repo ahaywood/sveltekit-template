@@ -2,23 +2,21 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte) and [mdsvex](https://github.com/pngwn/MDsveX/tree/master/packages/site/src/components).
 
-## Creating a project
+## Using the Template
 
 If you're seeing this, you've probably already done this step. Congrats! 🎉
 
-```bash
-git clone PATH
-```
+Within GitHub, click on the **Use this Template** button.
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've created a project and installed dependencies with `pnpm install`, start a development server:
 
 ```bash
-npm run dev
+pnpm run dev
 
 # or start the server and open the app in a new browser tab
-npm run dev -- --open
+pnpm run dev -- --open
 ```
 
 ## Building
@@ -32,3 +30,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+# Reference
+- [Building a blog with SvelteKit, TailwindCSS, and MDsveX](https://jeffpohlmeyer.com/building-a-blog-with-sveltekit-tailwindcss-and-mdsvex#heading-mdsvex)
+- [Test Svelte Component Using Vitest & Playwright](https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright)

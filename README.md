@@ -34,3 +34,4 @@ You can preview the production build with `npm run preview`.
 # Reference
 - [Building a blog with SvelteKit, TailwindCSS, and MDsveX](https://jeffpohlmeyer.com/building-a-blog-with-sveltekit-tailwindcss-and-mdsvex#heading-mdsvex)
 - [Test Svelte Component Using Vitest & Playwright](https://davipon.hashnode.dev/test-svelte-component-using-vitest-playwright)
+- [Prism Templates](https://github.com/PrismJS/prism-themes)
